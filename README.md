@@ -7,9 +7,6 @@ Owner: Felipe Lobos (FLobosCESI)
 
 ## Journal
 
-2026-11-13
-Dell Inspiron 7415 2-in-1
-AMD Ryzen 5 5500U (6 cores / 12 threads)
-15.4 GB
-18.2 GB
-Windows 10 Enterprise LTSC
+| Date | Laptop model | CPU | RAM | Free disk (C:) | Host OS |
+| --- | --- | --- | --- | --- | --- |
+| 2026-11-13 | Dell Inspiron 7415 2-in-1 | AMD Ryzen 5 5500U (6 cores / 12 threads) | 15.4 GB | 18.2 GB | Windows 10 Enterprise LTSC |
