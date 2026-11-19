@@ -1,0 +1,11 @@
+stress-ng: info:  [79290] setting to a 1 min run per stressor
+stress-ng: info:  [79290] dispatching hogs: 1 hdd
+stress-ng: info:  [79548] hdd: using 512M file system space per stressor instance (total 512M of 118.09G available file system space)
+stress-ng: metrc: [79290] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: metrc: [79290]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: metrc: [79290] hdd              659318     60.03      8.30     50.60     10983.57       11194.34
+stress-ng: info:  [79290] skipped: 0
+stress-ng: info:  [79290] passed: 1: hdd (1)
+stress-ng: info:  [79290] failed: 0
+stress-ng: info:  [79290] metrics untrustworthy: 0
+stress-ng: info:  [79290] successful run completed in 1 min
